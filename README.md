@@ -1,6 +1,9 @@
-# .net core
+# .Net Core
 
-Iniciando Demo 01
+Practicando c# en la plataforma de programación creada por Microsoft y disponible Open Source 
+y Multiplaforma para la comunidad de deaarrolladores.
+
+Para iniciar crea un directorio Demo01
 
 ```ssh 
     #creando la carpeta demo01
