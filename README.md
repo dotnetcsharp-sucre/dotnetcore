@@ -7,6 +7,10 @@ Ver Afiche del taller [Aqui](https://github.com/dotnetcsharp-sucre/dotnetcore/bl
 ## TEMARIO
 
 * .NET CORE.
+    * Creando una Solucion
+    * Creando un Proyecto de consola
+    * Creando una Libreria de Clases
+    * Creando una Plantilla Web
 * ASP.NET CORE.
 * ENTITY FRAMEWORK CORE.
 

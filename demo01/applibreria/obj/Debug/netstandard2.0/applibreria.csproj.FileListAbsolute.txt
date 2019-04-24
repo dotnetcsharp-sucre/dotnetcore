@@ -1,0 +1,9 @@
+/home/alanwalter/Downloads/democore2/applibreria/bin/Debug/netstandard2.0/applibreria.deps.json
+/home/alanwalter/Downloads/democore2/applibreria/bin/Debug/netstandard2.0/applibreria.dll
+/home/alanwalter/Downloads/democore2/applibreria/bin/Debug/netstandard2.0/applibreria.pdb
+/home/alanwalter/Downloads/democore2/applibreria/obj/Debug/netstandard2.0/applibreria.csprojAssemblyReference.cache
+/home/alanwalter/Downloads/democore2/applibreria/obj/Debug/netstandard2.0/applibreria.csproj.CoreCompileInputs.cache
+/home/alanwalter/Downloads/democore2/applibreria/obj/Debug/netstandard2.0/applibreria.AssemblyInfoInputs.cache
+/home/alanwalter/Downloads/democore2/applibreria/obj/Debug/netstandard2.0/applibreria.AssemblyInfo.cs
+/home/alanwalter/Downloads/democore2/applibreria/obj/Debug/netstandard2.0/applibreria.dll
+/home/alanwalter/Downloads/democore2/applibreria/obj/Debug/netstandard2.0/applibreria.pdb

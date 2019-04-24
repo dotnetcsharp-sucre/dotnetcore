@@ -1,0 +1,14 @@
+/home/alanwalter/Downloads/democore2/appconsole/bin/Debug/netcoreapp2.2/appconsole.deps.json
+/home/alanwalter/Downloads/democore2/appconsole/bin/Debug/netcoreapp2.2/appconsole.runtimeconfig.json
+/home/alanwalter/Downloads/democore2/appconsole/bin/Debug/netcoreapp2.2/appconsole.runtimeconfig.dev.json
+/home/alanwalter/Downloads/democore2/appconsole/bin/Debug/netcoreapp2.2/appconsole.dll
+/home/alanwalter/Downloads/democore2/appconsole/bin/Debug/netcoreapp2.2/appconsole.pdb
+/home/alanwalter/Downloads/democore2/appconsole/obj/Debug/netcoreapp2.2/appconsole.csprojAssemblyReference.cache
+/home/alanwalter/Downloads/democore2/appconsole/obj/Debug/netcoreapp2.2/appconsole.csproj.CoreCompileInputs.cache
+/home/alanwalter/Downloads/democore2/appconsole/obj/Debug/netcoreapp2.2/appconsole.AssemblyInfoInputs.cache
+/home/alanwalter/Downloads/democore2/appconsole/obj/Debug/netcoreapp2.2/appconsole.AssemblyInfo.cs
+/home/alanwalter/Downloads/democore2/appconsole/obj/Debug/netcoreapp2.2/appconsole.dll
+/home/alanwalter/Downloads/democore2/appconsole/obj/Debug/netcoreapp2.2/appconsole.pdb
+/home/alanwalter/Downloads/democore2/appconsole/bin/Debug/netcoreapp2.2/applibreria.dll
+/home/alanwalter/Downloads/democore2/appconsole/bin/Debug/netcoreapp2.2/applibreria.pdb
+/home/alanwalter/Downloads/democore2/appconsole/obj/Debug/netcoreapp2.2/appconsole.csproj.CopyComplete
