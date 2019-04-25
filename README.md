@@ -1,20 +1,29 @@
-# .Net Core
+# .Net Framework Core
 
-Iniciando : 23 de Abril de 2019
-
-Ver Afiche del taller [Aqui](https://github.com/dotnetcsharp-sucre/dotnetcore/blob/master/Afiche.png) 
+La presentacion [Taller C# Abril 2019](https://github.com/dotnetcsharp-sucre/dotnetcore/blob/master/Taller%20C%23%20Abril%202019.pdf) sera modificado acorde al avance del temario, ver Afiche del taller [Aqui](https://github.com/dotnetcsharp-sucre/dotnetcore/blob/master/Afiche.png) 
 
 ## TEMARIO
 
-* .NET CORE.
+* .NET CORE.  <code>23-04-2019</code>
     * Creando una Solucion
     * Creando un Proyecto de consola
     * Creando una Libreria de Clases
     * Creando una Plantilla Web
-* ASP.NET CORE.
-* ENTITY FRAMEWORK CORE.
 
-La presentacion [Taller C# Abril 2019](https://github.com/dotnetcsharp-sucre/dotnetcore/blob/master/Taller%20C%23%20Abril%202019.pdf) sera modificado acorde al avance del temario.
+* ASP.NET CORE. <code>24-04-2019</code>
+    * Empty
+    * Web
+    * MVC
+    * Angular
+    * React
+    * Api
+
+* ENTITY FRAMEWORK CORE. <code>25-04-2019</code>
+    * Code First
+    * ...
+
+<hr>
+
 
 ## CREANDO UN PROYECTO DE CONSOLA
 
