@@ -709,11 +709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alanwalter/Downloads/democore2/appconsole/appconsole.csproj",
+      "projectUniqueName": "/home/alanwalter/Documents/github/dotnetcore/demo01/appconsole/appconsole.csproj",
       "projectName": "appconsole",
-      "projectPath": "/home/alanwalter/Downloads/democore2/appconsole/appconsole.csproj",
+      "projectPath": "/home/alanwalter/Documents/github/dotnetcore/demo01/appconsole/appconsole.csproj",
       "packagesPath": "/home/alanwalter/.nuget/packages/",
-      "outputPath": "/home/alanwalter/Downloads/democore2/appconsole/obj/",
+      "outputPath": "/home/alanwalter/Documents/github/dotnetcore/demo01/appconsole/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -730,8 +730,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/home/alanwalter/Downloads/democore2/applibreria/applibreria.csproj": {
-              "projectPath": "/home/alanwalter/Downloads/democore2/applibreria/applibreria.csproj"
+            "/home/alanwalter/Documents/github/dotnetcore/demo01/applibreria/applibreria.csproj": {
+              "projectPath": "/home/alanwalter/Documents/github/dotnetcore/demo01/applibreria/applibreria.csproj"
             }
           }
         }

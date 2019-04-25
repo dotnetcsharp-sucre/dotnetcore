@@ -7,3 +7,12 @@
 /home/alanwalter/Downloads/democore2/applibreria/obj/Debug/netstandard2.0/applibreria.AssemblyInfo.cs
 /home/alanwalter/Downloads/democore2/applibreria/obj/Debug/netstandard2.0/applibreria.dll
 /home/alanwalter/Downloads/democore2/applibreria/obj/Debug/netstandard2.0/applibreria.pdb
+/home/alanwalter/Documents/github/dotnetcore/demo01/applibreria/bin/Debug/netstandard2.0/applibreria.deps.json
+/home/alanwalter/Documents/github/dotnetcore/demo01/applibreria/bin/Debug/netstandard2.0/applibreria.dll
+/home/alanwalter/Documents/github/dotnetcore/demo01/applibreria/bin/Debug/netstandard2.0/applibreria.pdb
+/home/alanwalter/Documents/github/dotnetcore/demo01/applibreria/obj/Debug/netstandard2.0/applibreria.csprojAssemblyReference.cache
+/home/alanwalter/Documents/github/dotnetcore/demo01/applibreria/obj/Debug/netstandard2.0/applibreria.csproj.CoreCompileInputs.cache
+/home/alanwalter/Documents/github/dotnetcore/demo01/applibreria/obj/Debug/netstandard2.0/applibreria.AssemblyInfoInputs.cache
+/home/alanwalter/Documents/github/dotnetcore/demo01/applibreria/obj/Debug/netstandard2.0/applibreria.AssemblyInfo.cs
+/home/alanwalter/Documents/github/dotnetcore/demo01/applibreria/obj/Debug/netstandard2.0/applibreria.dll
+/home/alanwalter/Documents/github/dotnetcore/demo01/applibreria/obj/Debug/netstandard2.0/applibreria.pdb

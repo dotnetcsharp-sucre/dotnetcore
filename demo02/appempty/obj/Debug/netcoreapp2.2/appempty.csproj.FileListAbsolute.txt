@@ -1,0 +1,14 @@
+/home/alanwalter/Downloads/democore3/appempty/bin/Debug/netcoreapp2.2/appempty.deps.json
+/home/alanwalter/Downloads/democore3/appempty/bin/Debug/netcoreapp2.2/appempty.runtimeconfig.json
+/home/alanwalter/Downloads/democore3/appempty/bin/Debug/netcoreapp2.2/appempty.runtimeconfig.dev.json
+/home/alanwalter/Downloads/democore3/appempty/bin/Debug/netcoreapp2.2/appempty.dll
+/home/alanwalter/Downloads/democore3/appempty/bin/Debug/netcoreapp2.2/appempty.pdb
+/home/alanwalter/Downloads/democore3/appempty/obj/Debug/netcoreapp2.2/appempty.csprojAssemblyReference.cache
+/home/alanwalter/Downloads/democore3/appempty/obj/Debug/netcoreapp2.2/appempty.csproj.CoreCompileInputs.cache
+/home/alanwalter/Downloads/democore3/appempty/obj/Debug/netcoreapp2.2/appempty.RazorAssemblyInfo.cache
+/home/alanwalter/Downloads/democore3/appempty/obj/Debug/netcoreapp2.2/appempty.RazorAssemblyInfo.cs
+/home/alanwalter/Downloads/democore3/appempty/obj/Debug/netcoreapp2.2/appempty.AssemblyInfoInputs.cache
+/home/alanwalter/Downloads/democore3/appempty/obj/Debug/netcoreapp2.2/appempty.AssemblyInfo.cs
+/home/alanwalter/Downloads/democore3/appempty/obj/Debug/netcoreapp2.2/appempty.RazorTargetAssemblyInfo.cache
+/home/alanwalter/Downloads/democore3/appempty/obj/Debug/netcoreapp2.2/appempty.dll
+/home/alanwalter/Downloads/democore3/appempty/obj/Debug/netcoreapp2.2/appempty.pdb

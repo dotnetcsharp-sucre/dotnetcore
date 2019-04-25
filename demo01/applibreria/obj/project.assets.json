@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alanwalter/Downloads/democore2/applibreria/applibreria.csproj",
+      "projectUniqueName": "/home/alanwalter/Documents/github/dotnetcore/demo01/applibreria/applibreria.csproj",
       "projectName": "applibreria",
-      "projectPath": "/home/alanwalter/Downloads/democore2/applibreria/applibreria.csproj",
+      "projectPath": "/home/alanwalter/Documents/github/dotnetcore/demo01/applibreria/applibreria.csproj",
       "packagesPath": "/home/alanwalter/.nuget/packages/",
-      "outputPath": "/home/alanwalter/Downloads/democore2/applibreria/obj/",
+      "outputPath": "/home/alanwalter/Documents/github/dotnetcore/demo01/applibreria/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
